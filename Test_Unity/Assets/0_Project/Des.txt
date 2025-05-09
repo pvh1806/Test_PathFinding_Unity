@@ -1,0 +1,8 @@
+--------Cách làm --------
+-Tạo đường đi trước (có thể không phải là đường tối ưu nhất)
+-Tạo map
+-Tạođườngđi ngắn nhất = A*
+---------Màu sắc -------------
+A* : màu xanh da trời nhạt
+Cả 2 : màu xanh đậm
+Đườngđi tạo từ đầu : màu vàng
